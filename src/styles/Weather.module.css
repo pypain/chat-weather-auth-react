@@ -1,0 +1,12 @@
+.weatherContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+  }
+  
+  .weatherInfo {
+    text-align: center;
+  }
